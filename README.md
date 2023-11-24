@@ -6,6 +6,10 @@ Empower your terminal experience with the seamless ability to effortlessly issue
 
 ## Usage
 
+```http 
+  git clone https://github.com/aaayushh7/ChatGPT-4-terminal.git
+```
+
 #### Get the API key from chatgpt
 
 ```http
