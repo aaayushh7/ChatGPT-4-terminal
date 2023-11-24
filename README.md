@@ -17,10 +17,16 @@ Empower your terminal experience with the seamless ability to effortlessly issue
   paste your generated key inside .env 
   ' API_LEY = "" '
 ```
-#### Run The cammand
+
+#### Run tidy to download 3rd parties
+```http
+    cd ChatGPT-sentenceCompletion
+    go mod tidy
+```
+
+#### Run The program
 
 ```http
-  cd chatgpt-4-terminal
   go run main.go
 ```
 
